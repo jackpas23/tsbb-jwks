@@ -1,0 +1,1 @@
+{"issuer":"ISSPLACEHOLDER","jwks_uri":"ISSPLACEHOLDER/.well-known/jwks.json","authorization_endpoint":"ISSPLACEHOLDER/auth","token_endpoint":"ISSPLACEHOLDER/token","id_token_signing_alg_values_supported":["RS256"],"response_types_supported":["id_token"],"subject_types_supported":["public"]}
